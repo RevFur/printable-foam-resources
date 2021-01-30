@@ -11,6 +11,8 @@ This repo is a dumping ground of sorts to share the some of my efforts in 3D pri
 
 I'm putting this information out there in the hope that it'll give you a good foundation to build on for your own projects.
 
+<img src="doc/images/head_1.jpg" width="800" height="704">
+
 ## Principle of Operation
 
 The provided printer settings and examples make use the gyroid infill pattern provided in PrusaSlicer, with no top or bottom layers and no perimeters. Gyroidal infill printed in TPU produces a very flexible, durable, and isotropic material akin to traditional reticulated foam.
