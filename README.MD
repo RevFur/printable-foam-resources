@@ -15,7 +15,7 @@ I'm putting this information out there in the hope that it'll give you a good fo
 
 ## Principle of Operation
 
-The provided printer settings and examples make use the gyroid infill pattern provided in PrusaSlicer, with no top or bottom layers and no perimeters. Gyroidal infill printed in TPU produces a very flexible, durable, and isotropic material akin to traditional reticulated foam.
+The provided printer settings and examples make use of the gyroid infill pattern provided in PrusaSlicer, with no top or bottom layers and no perimeters. Gyroidal infill printed in TPU produces a very flexible, durable, and isotropic material akin to traditional reticulated foam.
 
 ## What do I need to make use of these files?
 - A Prusa I3 MK3S or an Ender 3 Pro with direct drive extruder modification
